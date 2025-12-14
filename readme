@@ -1,0 +1,7 @@
+Some of my solutions to Advent of Code 2025 that I found mathematically
+interesting. Focus is on _math_, and _not_ speed or efficiency.
+
+If a solution to a day/part is missing, I either bruteforced it, or
+couldn't do it in pure Haskell (i.e. used Monad.ST or similar).
+
+All solutions expect the input on stdin.
