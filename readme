@@ -7,6 +7,7 @@ couldn't do it in pure Haskell (i.e. used Monad.ST or similar).
 All solutions expect the input on stdin.
 
 Highlights:
+	- d01-b: total variation
 	- d02-a: finite arithmetic progressions
 	- d02-b: combinatorial inclusion-exclusion
 	- d05-b: orthogonalisation + lebesgue measure over integer lattice
